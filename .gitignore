@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Streamlit configuration and keys
+.streamlit/
+.env
+*.secrets
+
+# Local Vector Databases generated during testing
+faiss_index/
