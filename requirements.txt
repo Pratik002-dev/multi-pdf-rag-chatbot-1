@@ -7,4 +7,6 @@ pypdf
 PyPDF2
 faiss-cpu
 sentence-transformers
+torch
+torchvision
 python-dotenv
